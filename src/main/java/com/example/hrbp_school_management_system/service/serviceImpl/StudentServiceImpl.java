@@ -1,4 +1,4 @@
-package com.example.hrbp_school_management_system.serviceImpl;
+package com.example.hrbp_school_management_system.service.serviceImpl;
 
 import com.example.hrbp_school_management_system.dto.StudentDto;
 import com.example.hrbp_school_management_system.model.Student;
